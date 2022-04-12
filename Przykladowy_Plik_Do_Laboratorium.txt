@@ -5,3 +5,5 @@ Szymon Bilik
 L3 
 
 Wydział Elektrotechniki i Informatyki
+
+Wprowadzona zmiana
